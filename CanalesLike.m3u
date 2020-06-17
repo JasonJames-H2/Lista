@@ -1,0 +1,255 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno"1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png",NICKELODON LATINO
+http://cdn.miip.tv:8080/canada/123456/3692
+#EXTINF:-1 tvg-chno"2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/NICK_Movies.svg",NICK MOVIES
+http://cdn.miip.tv:8080/canada/123456/3693
+#EXTINF:-1 tvg-chno"3"tvg-logo="https://www.models-resource.com/resources/big_icons/30/29991.png",NICK GAMES
+http://cdn.miip.tv:8080/canada/123456/3694
+#EXTINF:-1 tvg-chno"4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png",Nick 2 | MX
+http://cdn.miip.tv:8080/canada/123456/109
+#EXTINF:-1 tvg-chno"5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nick_Jr_Pluto_TV.png",PLUTO NICK JR LATINO
+http://cdn.miip.tv:8080/canada/123456/3689
+#EXTINF:-1 tvg-chno"6" tvg-logo="https://1.bp.blogspot.com/-CRPsvgCjfwI/XaYpYWIoHKI/AAAAAAABMrc/xRo2zq2aRMkHLBy6xjYaK7J4XLaumobzwCNcBGAsYHQ/s1600/Nick_Latino_Channel_1080x1080_Square_Nickelodeon_Pluto_TV_Frame_Logo_2.png",PLUTO NICKELODON LATINO
+http://cdn.miip.tv:8080/canada/123456/3650
+#EXTINF:-1 tvg-chno"7" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true",NICK CENTRAL
+http://cdn.miip.tv:8080/canada/123456/4165
+#EXTINF:-1 tvg-chno"8" [COLOR WHITE] [/COLOR], NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1 tvg-chno"9" [COLOR WHITE] [/COLOR],NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Nick Jr." tvg-logo="" group-title="Latino",Latino - Nick Jr.
+http://unlockyourtv.com:8000/live/Luis/Luis/2463.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Nickelodeon" tvg-logo="" group-title="Latino",Latino - Nickelodeon
+http://unlockyourtv.com:8000/live/Luis/Luis/2464.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbvvRC6.png" group-title="RUSSIA",Nick Jr. (Dual) (Opt-1)
+http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbvvRC6.png" group-title="RUSSIA",Nick Jr. (Dual) (Opt-2)
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="RUSSIA",Nickelodeon (Dual) (Opt-1)
+http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="RUSSIA",Nickelodeon (Dual) (Opt-2)
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0dcNJl.png" group-title="RUSSIA",Nicktoons (Dual) (Opt-1)
+http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0dcNJl.png" group-title="RUSSIA",Nicktoons (Dual) (Opt-2)
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,DISCOVERY TURBO LATINOS
+http://cdn.miip.tv:8080/canada/123456/165
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://cdn.miip.tv:8080/canada/123456/166
+#EXTINF:-1,DISCOVERY KIDS
+http://cdn.miip.tv:8080/canada/123456/167
+#EXTINF:-1,DISNEY CHANNEL LATINO
+http://cdn.miip.tv:8080/canada/123456/168
+#EXTINF:-1,DISNEY XD 
+http://cdn.miip.tv:8080/canada/123456/169
+#EXTINF:-1,STUDIO UNIVERSAL
+http://cdn.miip.tv:8080/canada/123456/170
+#EXTINF:-1,Las Estrellas | MX
+http://cdn.miip.tv:8080/canada/123456/92
+#EXTINF:-1,Milenio Tv | MX
+http://cdn.miip.tv:8080/canada/123456/93
+EXTINF:-1,Foro tv | MX
+http://cdn.miip.tv:8080/canada/123456/85
+#EXTINF:-1,Televisa Bajo | MX
+http://cdn.miip.tv:8080/canada/123456/86
+#EXTINF:-1 group-title="MEXICO",Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1,Canal 5 | MX
+http://cdn.miip.tv:8080/canada/123456/77
+#EXTINF:-1,DISNEY LIVE ACTION 
+http://cdn.miip.tv:8080/canada/123456/78
+#EXTINF:-1,SCOOBY DOO 24/7
+http://cdn.miip.tv:8080/canada/123456/79
+#EXTINF:-1,LATIN SPORT AMERICA
+http://cdn.miip.tv:8080/canada/123456/80
+#EXTINF:-1,EL CHAVO 24/7
+http://cdn.miip.tv:8080/canada/123456/62
+#EXTINF:-1,DISNEY JR USA
+http://cdn.miip.tv:8080/canada/123456/64
+#EXTINF:-1,DISNEY PRINCESS 
+http://cdn.miip.tv:8080/canada/123456/71
+#EXTINF:-1,DISNEY LIVE ACTION 
+http://cdn.miip.tv:8080/canada/123456/78
+#EXTINF:-1,SCOOBY DOO 24/7
+http://cdn.miip.tv:8080/canada/123456/79
+#EXTINF:-1,LATIN SPORT AMERICA
+http://cdn.miip.tv:8080/canada/123456/80
+#EXTINF:-1,DISNEY JR LATINO
+http://cdn.miip.tv:8080/canada/123456/3688
+#EXTINF:-1,LOS PICAPIEDRAS
+http://cdn.miip.tv:8080/canada/123456/3803
+#EXTINF:-1,CHESPIRITO
+http://cdn.miip.tv:8080/canada/123456/3805
+#EXTINF:-1,EL CHAVO DEL 8
+http://cdn.miip.tv:8080/canada/123456/3806
+#EXTINF:-1,LOS SIMPSONS
+http://cdn.miip.tv:8080/canada/123456/3807
+#EXTINF:-1,SIMPSONS 24/7
+http://cdn.miip.tv:8080/canada/123456/36
+#EXTINF:-1,CINEMA PIXARS 24/7
+http://cdn.miip.tv:8080/canada/123456/6942
+#EXTINF:-1,CINEMA DREAMWORKS 24/7
+http://cdn.miip.tv:8080/canada/123456/6941
+#EXTINF:-1,MOVIE CENTER KIDS 24/7
+http://cdn.miip.tv:8080/canada/123456/6931
+#EXTINF:-1,CINEMA FAMILIAS 24/7
+http://cdn.miip.tv:8080/canada/123456/6940
+#EXTINF:-1,FOX SOCCER PLUS
+http://cdn.miip.tv:8080/canada/123456/55
+#EXTINF:-1,Fox Action
+http://cdn.miip.tv:8080/canada/123456/132
+#EXTINF:-1,Fox Movies
+http://cdn.miip.tv:8080/canada/123456/137
+#EXTINF:-1,Fox series
+http://cdn.miip.tv:8080/canada/123456/138
+#EXTINF:-1,Fox Life
+http://cdn.miip.tv:8080/canada/123456/139
+#EXTINF:-1,Fox Cinema
+http://cdn.miip.tv:8080/canada/123456/140
+#EXTINF:-1,Fox
+http://cdn.miip.tv:8080/canada/123456/141
+#EXTINF:-1,Fox Family
+http://cdn.miip.tv:8080/canada/123456/142
+#EXTINF:-1,Fox Clasic
+http://cdn.miip.tv:8080/canada/123456/143
+#EXTINF:-1,Adrenalina
+http://cdn.miip.tv:8080/canada/123456/144
+#EXTINF:-1,Fox Sport 1 | MX
+http://cdn.miip.tv:8080/canada/123456/145
+#EXTINF:-1,Fox Sport 2 | MX
+http://cdn.miip.tv:8080/canada/123456/146
+#EXTINF:-1,Fox Sport 3 | MX
+http://cdn.miip.tv:8080/canada/123456/147
+#EXTINF:-1,FOX 25 BOSTON
+http://cdn.miip.tv:8080/canada/123456/3788
+#EXTINF:-1,FOX SPORT PREMIUN
+http://cdn.miip.tv:8080/canada/123456/4224
+#EXTINF:-1,JUSTICE TV
+http://cdn.miip.tv:8080/canada/123456/4221
+#EXTINF:-1,SONY MOVIES CHANNEL
+http://cdn.miip.tv:8080/canada/123456/4219
+http://cdn.miip.tv:8080/canada/123456/6475
+#EXTINF:-1,XUTV:FOX DEPORTES
+http://cdn.miip.tv:8080/canada/123456/6473
+#EXTINF:-1,XUTV: FOX SPORTS
+http://cdn.miip.tv:8080/canada/123456/6472
+#EXTINF:-1,FOX NY
+http://cdn.miip.tv:8080/canada/123456/3581
+#EXTINF:-1,NBC NY
+http://cdn.miip.tv:8080/canada/123456/3580
+#EXTINF:-1,CINEMA NAVIDAD 
+http://cdn.miip.tv:8080/canada/123456/74ç
+#EXTINF:-1,CINEMAX ACTION
+http://cdn.miip.tv:8080/canada/123456/88
+#EXTINF:-1,DISCOVERY LIFE
+http://cdn.miip.tv:8080/canada/123456/3713
+#EXTINF:-1,HALLMARK DRAMA
+http://cdn.miip.tv:8080/canada/123456/3714
+#EXTINF:-1,DISCOVERY SCIENCIA USA
+http://cdn.miip.tv:8080/canada/123456/3715
+#EXTINF:-1,CINEMAX LATINO
+http://cdn.miip.tv:8080/canada/123456/3716
+#EXTINF:-1,PLUTO BLACK CINEMA
+http://cdn.miip.tv:8080/canada/123456/424
+#EXTINF:-1,PLUTO TV DRAMA
+http://cdn.miip.tv:8080/canada/123456/423
+#EXTINF:-1,PLUTO TV TRILLER
+http://cdn.miip.tv:8080/canada/123456/422
+#EXTINF:-1,PLUTO TV PELICULAS
+http://cdn.miip.tv:8080/canada/123456/421
+#EXTINF:-1,PLUTO TV CINE TERROR
+http://cdn.miip.tv:8080/canada/123456/419
+#EXTINF:-1,PLUTO TV CINE ESTELAR
+http://cdn.miip.tv:8080/canada/123456/420
+#EXTINF:-1,PLUTO TV CINE
+http://cdn.miip.tv:8080/canada/123456/418
+#EXTINF:-1,PLUTO TV REALITY
+http://cdn.miip.tv:8080/canada/123456/417
+#EXTINF:-1,NATGEO WILD
+http://cdn.miip.tv:8080/canada/123456/3730
+#EXTINF:-1,NATGEO MUNDO
+http://cdn.miip.tv:8080/canada/123456/4120
+#EXTINF:-1,NATGEO WEST
+http://cdn.miip.tv:8080/canada/123456/3630
+#EXTINF:-1,NATGEO KIDS
+http://cdn.miip.tv:8080/canada/123456/3632
+#EXTINF:-1,HBO ZONE ESPANOL
+http://cdn.miip.tv:8080/canada/123456/97
+#EXTINF:-1,Hbo | MX
+http://cdn.miip.tv:8080/canada/123456/133
+#EXTINF:-1,Hbo 2 | MX
+http://cdn.miip.tv:8080/canada/123456/134
+#EXTINF:-1,Hbo Family | MX
+http://cdn.miip.tv:8080/canada/123456/135
+#EXTINF:-1,Hbo Plus | MX
+http://cdn.miip.tv:8080/canada/123456/136
+#EXTINF:-1,History | MX
+http://cdn.miip.tv:8080/canada/123456/123
+#EXTINF:-1,DISCOVERY CHANNEL LATINO
+http://cdn.miip.tv:8080/canada/123456/3746
+#EXTINF:-1,ANIMAL PLANET LATINO
+http://cdn.miip.tv:8080/canada/123456/3747
+#EXTINF:-1,HISTORY
+http://cdn.miip.tv:8080/canada/123456/3749
+#EXTINF:-1,XUTV: HISTORY
+http://cdn.miip.tv:8080/canada/123456/6375
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - HBO" tvg-logo="" group-title="Latino",Latino - HBO
+http://unlockyourtv.com:8000/live/Luis/Luis/2453.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - HBO 2" tvg-logo="" group-title="Latino",Latino - HBO 2
+http://unlockyourtv.com:8000/live/Luis/Luis/2454.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - HBO Family" tvg-logo="" group-title="Latino",Latino - HBO Family
+http://unlockyourtv.com:8000/live/Luis/Luis/2455.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - HBO Signature" tvg-logo="" group-title="Latino",Latino - HBO Signature
+http://unlockyourtv.com:8000/live/Luis/Luis/2456.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="http://www.imfranetx.com/wp-content/uploads/2015/04/HBO-EN-VIVO.jpg" group-title="Peliculas",HBO
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/1594.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS ESTE" tvg-logo="http://appsclaro.com/canales/logos/hbo-plus.jpg" group-title="Peliculas",HBO PLUS ESTE
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/593.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/220px-HBO_Family_logo.png" group-title="Peliculas",HBO FAMILY
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/598.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="http://www.eltecsa.com/logos/hbo2_lam.png" group-title="Peliculas",HBO 2
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/599.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="Peliculas",HBO SIGNATURE
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/592.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO2" tvg-logo="" group-title="Peliculas",HBO2
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/2804.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino: History" tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2016/02/History_channel_logo.png" group-title="Latino",Latino: History
+http://unlockyourtv.com:8000/live/Luis/Luis/1496.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - History 2" tvg-logo="" group-title="Latino",Latino - History 2
+http://unlockyourtv.com:8000/live/Luis/Luis/2457.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Mr Bean 24/7" tvg-logo="http://images1.fanpop.com/images/photos/1400000/Mr-Bean-mr-bean-1415091-500-375.jpg" group-title="24/7",Mr Bean 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/777.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Animal Planet" tvg-logo="" group-title="Latino",Latino - Animal Planet
+http://unlockyourtv.com:8000/live/Luis/Luis/2414.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Investigacion",ANIMAL PLANET
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/253.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - TNT Series" tvg-logo="" group-title="Latino",Latino - TNT Series
+http://unlockyourtv.com:8000/live/Luis/Luis/2470.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD (ES)" tvg-logo="https://imgur.com/vgP2OKr.png" group-title="Spanish",TNT HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.ts.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES" tvg-logo="http://lagranciudad.net/home/wp-content/uploads/2015/03/Logo-TNT-Series.png" group-title="Peliculas",TNT SERIES
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/813.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="UK",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA",NASA TV (Opt-1)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA",NASA TV (Opt-2)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA",NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CARTOON NETWOORK
+http://aleman.mine.nu:8000/live/oscar1/oscar1/826.ts
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Cartoon Network" tvg-logo="" group-title="Latino",Latino - Cartoon Network
+http://unlockyourtv.com:8000/live/Luis/Luis/2418.ts.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://cdn.miip.tv:8080/canada/123456/3695
+#EXTINF:-1,CARTOON NETWORK LATINO
+http://cdn.miip.tv:8080/canada/123456/3696
+#EXTINF:-1,CLASSIC TOONS
+http://cdn.miip.tv:8080/canada/123456/3697
